@@ -7,8 +7,10 @@ Quectel OpenCPU for PlatformIO
 * Modules: M66, M26, MC60, BC66
 * This project not an official product of Quectel
 
+Video: Example 
+https://youtu.be/YvHy1MLqH70
 
-![ScreenShot](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/images/screenshot.png) 
+![ScreenShot](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/screenshot.png) 
 
 
 **Install**
