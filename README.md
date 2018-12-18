@@ -3,7 +3,7 @@ Quectel OpenCPU for PlatformIO
 
 
 **A few words in the beginning**
-* version: 1.0.0 (starter)
+* version: 1.0.0 ( NOT READY FOR INSTALL )
 * Modules: M66, M26, MC60, BC66
 * This project not an official product of Quectel
 
