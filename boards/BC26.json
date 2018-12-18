@@ -1,0 +1,34 @@
+{
+  "name": "Quectel BC26 module",
+  "url": "https://www.quectel.com/",
+  "build": {
+    "core": "bc66",
+    "f_cpu": "78000000L",
+    "mcu": "ARM",
+    "cpu": "cortex-m4",
+    "variant": "BC66"
+  },
+  "debug": {
+    "tools": {
+      "uart": {
+        "onboard": true,
+        "extra_cmds": [],
+        "load_cmd": [],
+        "server": {
+          "arguments": [],
+          "executable": "coda",
+          "package": "tool-opencpu"
+        }
+      }
+    }
+  },  
+  "frameworks": [
+    "OpenCPU BC66",
+    "arduino"
+  ],
+  "vendor": "Quectel",
+  "upload": {
+        "maximum_ram_size": 100000,
+        "maximum_size": 200000
+  }
+}

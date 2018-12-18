@@ -1,0 +1,51 @@
+{
+  "name": "opencpu",
+  "title": "Quectel OpenCPU",
+  "description": "Quectel OpenCPU 2018 Georgi Angelov",
+  "url": "http://platformio.org/platforms/opencpu",
+  "homepage": "http://www.wizio.eu/",
+  "license": "Apache-2.0",
+  "engines": {
+    "platformio": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wiz-IO/platform-opencpu.git"
+  },
+  "version": "1.0.0",
+  "packageRepositories": [
+    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
+    "http://dl.platformio.org/packages/manifest.json",
+    "http://wizio.eu/platformio/manifest.json"
+  ],
+  "frameworks": {
+    "OpenCPU BC66": {
+      "package": "framework-opencpu",
+      "script": "builder/frameworks/bc66.py"
+    },     
+    "OpenCPU M66": {
+      "package": "framework-opencpu",
+      "script": "builder/frameworks/m66.py"
+    },   
+    "OpenCPU MC60": {
+      "package": "framework-opencpu",
+      "script": "builder/frameworks/mc60.py"
+    }           
+  },
+  "packages": {
+    "toolchain-opencpu": {
+      "type": "toolchain",
+      "version": ">=4.8.3"
+    },
+    "framework-opencpu": {
+      "type": "framework",
+      "optional": true,
+      "version": ">=1.0.0"
+    },
+    "tool-opencpu": {
+      "type": "uploader",
+      "optional": true,
+      "version": ">=1.0.0"
+    }    
+  }
+}
