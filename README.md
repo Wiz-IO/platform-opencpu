@@ -14,8 +14,15 @@ https://youtu.be/YvHy1MLqH70
 
 
 **Install**
+ (manual for now)
 
-how to...
+http://wizio.eu/platformio/manifest.json
+
+http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz
+
+http://wizio.eu/platformio/tool-opencpu-1.0.0.tar.gz
+
+http://wizio.eu/platformio/framework-opencpu-1.0.0.tar.gz
 
 
 **Thanks to**
