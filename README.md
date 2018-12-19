@@ -9,7 +9,7 @@ Quectel OpenCPU for PlatformIO
 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/project.png) 
 
-Video: Example 
+Video 
 https://youtu.be/YvHy1MLqH70
 
 ![ScreenShot](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/screenshot.png) 
