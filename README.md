@@ -29,8 +29,8 @@ http://wizio.eu/platformio/framework-opencpu-1.0.0.tar.gz
 
 **Thanks to**
 
-* Ivan Kravets
-* Radu Igret
+* Ivan Kravets ( PlatformIO )
+* Radu Igret ( Quectel )
 
 
 **If you want to help / support - contact me**
