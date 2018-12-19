@@ -4,7 +4,8 @@ Quectel OpenCPU for PlatformIO
 
 **A few words in the beginning**
 * version: 1.0.0 ( work, but is NOT READY FOR AUTO INSTALL )
-* Quectel Modules: M66, M26, MC60, BC66
+* this is base, I will rename platform to Quectel, and frameworks to OpenCPU, OpenLinux, ThreadX and Arduino...
+* Quectel Modules: now M66, M26, MC60, BC66 ... next BG96 and EC2x
 
 
 Video: Example 
