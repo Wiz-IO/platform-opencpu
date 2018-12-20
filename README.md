@@ -8,6 +8,8 @@ Quectel OpenCPU for PlatformIO
 * Quectel Modules: now M66, M26, MC60, MC20 BC66, BC26 ... next BG96, EC21, EC25 ...
 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/project.png) 
+![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/platform.png) 
+![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/boards.png) 
 
 Video 
 https://youtu.be/YvHy1MLqH70
