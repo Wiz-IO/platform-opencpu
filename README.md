@@ -23,13 +23,13 @@ PIO Home > Platforms > Advanced Installation > Paste
 
 https://github.com/Wiz-IO/platform-opencpu.git
 
+TOOLS:
 
+* http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz
 
-http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz
+* http://wizio.eu/platformio/tool-opencpu-1.0.0.tar.gz
 
-http://wizio.eu/platformio/tool-opencpu-1.0.0.tar.gz
-
-http://wizio.eu/platformio/framework-opencpu-1.0.0.tar.gz
+* http://wizio.eu/platformio/framework-opencpu-1.0.0.tar.gz
 
 
 **Thanks to**
