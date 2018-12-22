@@ -18,9 +18,12 @@ https://youtu.be/YvHy1MLqH70
 
 
 **Install**
- (manual for now)
 
-http://wizio.eu/platformio/manifest.json
+PIO Home > Platforms > Advanced Installation > Paste 
+
+https://github.com/Wiz-IO/platform-opencpu.git
+
+
 
 http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz
 
