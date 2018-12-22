@@ -7,6 +7,8 @@ Quectel OpenCPU for PlatformIO
 * this is base, I will rename platform to Quectel, and frameworks to OpenCPU, OpenLinux, ThreadX and Arduino...
 * Quectel Modules: now M66, M26, MC60, MC20 BC66, BC26 ... next BG96, EC21, EC25 ...
 
+What next
+
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/project.png) 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/platform.png) 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/boards.png) 
