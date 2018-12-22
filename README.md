@@ -1,5 +1,5 @@
 # Quectel development platform for [PlatformIO](http://platformio.org)
-Quectel OpenCPU for PlatformIO
+Тhe platform will migrate here [platform-quectel](https://github.com/Wiz-IO/platform-quectel)
 
 
 **A few words in the beginning**
