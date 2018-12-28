@@ -1,5 +1,5 @@
 # Quectel development platform for [PlatformIO](http://platformio.org)
-Тhe platform will migrate here [platform-quectel](https://github.com/Wiz-IO/platform-quectel)
+Тhe platform will migrate here [platform-quectel](https://github.com/Wiz-IO/platform-quectel) for all Quectel modules
 
 
 **A few words in the beginning**
