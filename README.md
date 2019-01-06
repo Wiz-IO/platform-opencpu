@@ -9,7 +9,6 @@
 
 What next
 
-![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/project.png) 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/platform.png) 
 ![Project](https://raw.githubusercontent.com/Wiz-IO/platform-opencpu/master/boards.png) 
 
@@ -40,5 +39,5 @@ TOOLS:
 * Radu Igret ( Quectel )
 
 
-**If you want to help / support - contact me**
-# Other - Comming soon....
+>If you want to help / support:   
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ESUP9LCZMZTD6)
