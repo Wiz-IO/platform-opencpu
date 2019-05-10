@@ -1,5 +1,5 @@
 # Quectel development platform for [PlatformIO](http://platformio.org)
-Тhe platform will migrate here [platform-quectel](https://github.com/Wiz-IO/platform-quectel) for all Quectel modules
+# Тhe platform will migrate here [platform-quectel](https://github.com/Wiz-IO/platform-quectel) for all Quectel modules
 
 
 **A few words in the beginning**
@@ -20,17 +20,7 @@ https://youtu.be/YvHy1MLqH70
 
 **Install**
 
-PIO Home > Platforms > Advanced Installation > Paste 
-
-https://github.com/Wiz-IO/platform-opencpu.git
-
-TOOLS:
-
-* http://wizio.eu/platformio/toolchain-opencpu-4.8.3.tar.gz
-
-* http://wizio.eu/platformio/tool-opencpu-1.0.0.tar.gz
-
-* http://wizio.eu/platformio/framework-opencpu-1.0.0.tar.gz
+https://github.com/Wiz-IO/platform-quectel
 
 
 **Thanks to**
